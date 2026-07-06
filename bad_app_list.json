@@ -1,0 +1,15 @@
+{
+  "ch": true,
+  "app_sigs": [
+    "यहाँ_अपने_असली_सिग्नेचर_का_AES_कोड_डालें"
+  ],
+  "bad_apps": [
+    "qKeXxlBOsm8UfOzLQdZE2Wg7xWiTLGPqXYE2eqVdavA=", 
+    "qKeXxlBOsm8UfOzLQdZE2R8RbZ2540/DxfnhUG5twHzZmN1lVdZEBg/LBNzpmntZ", 
+    "5GnHDWtnSUSe1rAr/g8oqT0jLA0uu4H6IJ0yn+exBg8=", 
+    "Gk/0Tvxs1YyK+XMNvmhLGLBNOdRSW3Apzc/HvyBezkI=", 
+    "ck3Uqp5ExL2GZL6ZjPxalx5OdNQoF8NF9RvfT3Hrkzk=",
+    "9dtXnSoL2zKHPEzb3VTFCq2flsShvNTa779g/A5yKOA=",
+    "YX6YvtbIW20a7g+IIH5orJsZDLXc5OpEeGNK8fI7hAg="
+  ]
+}
